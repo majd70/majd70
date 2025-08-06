@@ -1,9 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&center=true&vCenter=true&width=750&lines=Hi+I'm+Majd+AL-Dirawi;🚀+Full-Stack+Laravel+Developer;🧠+Backend+Architect+%7C+API+Specialist;💡+Clean+Code+Advocate;🎯+Remote+Team+Player" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cube&color=0:0F2027,100:2C5364&height=210&section=header&text=Majd%20AL-Dirawi&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlign=40&fontAlignY=55" />
+  <img src="https://capsule-render.vercel.app/api?type=cube&color=0:F97316,100:F59E0B&height=230&section=header&text=Majd%20AL-Dirawi&fontSize=50&fontColor=ffffff&animation=blinking&fontAlign=40&fontAlignY=55" />
 </p>
 
 <p align="center">
@@ -114,5 +110,5 @@ Islamic University of Gaza – *2018 ~ 2023*
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F97316,100:F59E0B&height=120&section=footer" />
 </p>
