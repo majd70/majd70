@@ -75,18 +75,22 @@ Islamic University of Gaza (2018–2023)
 
 ---
 
-### 📊 GitHub Stats & Contributions
+### 📊 GitHub Visuals & Contributions
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=majd70&show_icons=true&theme=radical&count_private=true" height="160" />
-  <img src="https://streak-stats.demolab.com?user=majd70&theme=radical&hide_border=false" height="160" />
+  <img src="https://streak-stats.demolab.com?user=majd70&theme=radical&hide_border=false" height="170" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=majd70&layout=compact&theme=radical" height="150" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=majd70&bg_color=1a1b27&color=F97316&line=F59E0B&point=ffffff&area=true&hide_border=true" />
 </p>
 
 <p align="center">
+  <img src="https://majd70-atfw.vercel.app/api/top-langs/?username=majd70&layout=compact&theme=radical" height="150" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=majd70&theme=tokyonight" />
   <img src="https://github-contribution-trophy.vercel.app/?username=majd70&theme=darkhub&row=1&column=6" />
 </p>
 
