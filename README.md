@@ -1,4 +1,8 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:F59E0B,100:F97316&height=200&section=header&text=Majd%20AL-Dirawi&fontSize=40&fontColor=ffffff&animation=fadeIn)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&center=true&vCenter=true&width=435&lines=Hi+I'm+Majd+AL-Dirawi;Full-Stack+Laravel+Developer;Backend+Engineer+%7C+API+Specialist;Open+Source+Contributor" alt="Typing SVG" />
+</p>
+
+![Header](https://capsule-render.vercel.app/api?type=rounded&color=0:F97316,100:F59E0B&height=200&section=header&text=Majd%20AL-Dirawi&fontSize=45&fontColor=ffffff&animation=twinkling)
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=php,laravel,docker,mysql,aws,js,vue,react,nodejs&perline=7" />
