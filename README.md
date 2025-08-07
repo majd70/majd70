@@ -2,7 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=200&section=header&text=Salam%20Hammad&fontSize=45&fontColor=ffffff&animation=twinkling" />
 </p>
 
-<h3 align="center" style="color:#6B21A8"><strong>Hi, I’m Salam — a Laravel Developer who loves building secure, scalable systems and clean code that makes a difference.</strong></h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=500&lines=Full-Stack+Laravel+Developer;Backend+Engineer+%7C+API+Integrator;2%2B+Years+of+Professional+Experience;Passionate+about+Clean+Code+%26+Real-Time+Apps" />
