@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=450&lines=Full-Stack+Laravel+Developer;API+Integrator+%7C+Backend+Engineer;Open+Source+Contributor+%7C+2%2B+Years+Experience" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Full-Stack+Laravel+Developer;Backend+Engineer+%7C+API+Integrator;2%2B+Years+of+Professional+Experience;Passionate+about+Clean+Code+%26+Real-Time+Apps" />
 </p>
 
 <p align="center">
@@ -15,72 +15,107 @@
 
 ---
 
-## 🧠 About Me
+## 👋 About Me
 
-Hello! I'm Salam Hammad, a *Full-Stack Laravel Developer* based in Gaza, Palestine 🇵🇸. With 2+ years of experience, I focus on developing secure, performant, and scalable web applications across education, healthcare, and e-commerce sectors.
+Hello! I’m *Salam Hammad, a **Full-Stack Laravel Developer* from Gaza, Palestine 🇵🇸, with 2+ years of practical experience building modern, secure, and scalable web applications in *education, **healthcare, **e-commerce, and **digital marketplaces*.
 
-I'm passionate about:
-
-- ✨ Writing *clean, testable code* using Laravel and SOLID principles.
-- 🚀 Building *RESTful APIs*, backend architectures, and real-time features.
-- ☁ Integrating 3rd-party APIs like *Stripe, **Zoom, **Vonage, and **Firebase*.
-- 🧱 Crafting user-centered systems with *Livewire, **Vue, and **TailwindCSS*.
-- 🤝 Working in Agile teams and mentoring junior devs.
+💡 I specialize in:
+- 🧱 Clean backend architecture using Laravel + modern design patterns.
+- 🔐 Secure RESTful API development with Sanctum, Passport, OTP, and Webhooks.
+- ⚡ Real-time applications using Livewire, Alpine.js, and Firebase.
+- 💳 Third-party integrations (Stripe, Zoom, Firebase, Vonage, PHPMailer).
+- 🔁 Agile collaboration and software testing with CI/CD, Docker, and PHPUnit.
+- 🌐 Cross-functional teamwork with UI/UX designers using Figma, XD, Zeplin.
 
 ---
 
 ## 🚀 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,vue,react,tailwind,docker,js,ts,nodejs,mysql,postgres,firebase,java,py,html,css&perline=9" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,vue,react,livewire,tailwind,docker,js,ts,nodejs,mysql,postgres,firebase,java,py,html,css&perline=9" />
 </p>
 
-- *Languages:* PHP, JavaScript, TypeScript, Node.js, Java, SQL  
-- *Frameworks & Libraries:* Laravel, Livewire, Vue.js, React.js, Alpine.js, Tailwind CSS, Bootstrap  
-- *APIs & Auth:* RESTful APIs, Sanctum, Passport, OTP, Stripe, Zoom API, Webhooks  
-- *Databases:* MySQL, PostgreSQL, Firebase Realtime DB, SQLite  
-- *DevOps & Tools:* Docker, AWS, CI/CD, Postman, PHPUnit, Git, GitHub  
-- *Design & Management:* Figma, Adobe XD, Notion, Trello, JIRA  
+*Languages*: PHP, JavaScript, TypeScript, Node.js, Java, SQL  
+*Frameworks & Tools*: Laravel, Vue.js, React.js, Livewire, Alpine.js, Tailwind, Bootstrap  
+*Databases*: MySQL, PostgreSQL, Firebase Realtime DB, SQLite  
+*Authentication & APIs*: Sanctum, Passport, OTP, Stripe, Zoom API, PHPMailer  
+*DevOps*: Docker, AWS, CI/CD, Redis, GitHub Actions  
+*Testing*: PHPUnit, Postman, Functional & Integration Testing  
+*Design Tools*: Figma, Adobe XD, Zeplin  
+*Project Management*: Trello, Notion, JIRA, ClickUp, Zoom, Google Meet
 
 ---
 
-## 📆 Education
+## 📦 Featured Projects
 
-*Bachelor's Degree in Information Technology – Software Development*  
+### 🛍 GSG Store – E-Commerce Platform
+*B2C with Admin Panel, Realtime Notifications*  
+🔧 Laravel, Sanctum, FCM, Vonage, TailwindCSS, Alpine.js
+
+### 🏫 School Management System
+*EdTech Platform with Zoom Integration*  
+🔧 Laravel, Vue.js, React, Livewire 3, Spatie RBAC, Bootstrap
+
+### 🏥 Hospital Management System
+*Cloud-based Healthcare Solution*  
+🔧 Laravel, Spatie RBAC, TCPDF, PHPMailer, Bootstrap
+
+### 🎨 ArtFeat – Digital Art Marketplace (Ongoing)
+*Artist Profiles, Wallet System, Realtime Bidding*  
+🔧 Laravel, Vue.js, Stripe, FCM Notifications
+
+---
+
+## 📚 Education & Certifications
+
+🎓 *BSc in Information Technology – Software Development*  
 Islamic University of Gaza (2020 – 2025)
 
----
-
-## 🗭 Certifications
-
-- *PHP Laravel Development Certificate* – Udemy (2021)
-- *Software & Web Development Training* – Coursera (2022)
+🎓 *Laravel Development Certificate – Udemy (2022)*  
+🧪 *Web Development Certificate – Coursera (2021)*
 
 ---
 
-## 📆 Featured Projects
+## 💼 Experience
 
-### 💼 ArtFeat – Digital Art Marketplace (2024–Now)
-Contributing to a platform for digital artists and collectors. Built artist dashboards, CMS tools, and real-time community interaction features. Integrated Stripe for payments and enhanced security.
+*🔹 Full-Stack Contributor – ArtFeat (2024 – Present)*  
+Enhanced user dashboards, integrated Stripe, built realtime bidding, CMS tools, and security modules.
 
-### 🚑 Hospital Management System (2022)
-A secure cloud-based app with role-based dashboards for Admins, Doctors, and Patients. Includes encrypted medical records, appointment scheduling, and BLOB file uploads.
+*🔹 Laravel Developer – Tweets Tech (2023)*  
+Led API/backend for portfolio platform with OTP login, role-based access, and PDF export.
 
-### 🏫 School Management System (2024–2025)
-EdTech platform with student/teacher dashboards, exam tracking, and Zoom integration for remote classes. Built with Laravel + Vue.js + Livewire 3.
+*🔹 Laravel Intern – Smart Accelerator (2022)*  
+Built full-stack service marketplace (Nilay App) with booking, RBAC, Redis, and multilingual UI.
 
-### 📅 GSG Store – E-Commerce Platform (2024–2025)
-A full Laravel store with real-time push (FCM), SMS alerts, multilingual support, and secure role-based access. Built dashboards, analytics, and product/order/user management.
+*🔹 Technical Mentor – Gaza Sky Geeks (2021)*  
+Mentored students in HTML, CSS, JavaScript, and Git fundamentals.
 
 ---
 
-## 📢 Let's Connect
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=salam-hammad&theme=radical&hide_border=false" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=salam-hammad&bg_color=1a1b27&color=8B5CF6&line=A78BFA&point=ffffff&area=true&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=salam-hammad&theme=tokyonight" />
+  <img src="https://github-contribution-trophy.vercel.app/?username=salam-hammad&theme=darkhub&row=1&column=6" />
+</p>
+
+---
+
+## 📬 Let’s Connect
 
 <p align="center">
   <a href="mailto:salamhammad2003@gmail.com">📩 Email</a> • 
   <a href="https://linkedin.com/in/salam-hammad-9b8327278">🔗 LinkedIn</a> • 
-  <a href="https://github.com/salam-hammad">🔙 GitHub</a> • 
-  <a href="https://wa.me/972594797932">🚼 WhatsApp</a>
+  <a href="https://github.com/salam-hammad">🐙 GitHub</a> • 
+  <a href="https://wa.me/972594797932">💬 WhatsApp</a>
 </p>
 
 <p align="center">
