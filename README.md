@@ -84,7 +84,7 @@ Guided students in HTML, CSS, JavaScript, and Git fundamentals.
 
 ## 📊 GitHub Stats
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=majd70&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=salam-hammad&theme=tokyonight" />
 
 
 
