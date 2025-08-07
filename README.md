@@ -85,8 +85,15 @@ Guided students in HTML, CSS, JavaScript, and Git fundamentals.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=salam-hammad&theme=radical&hide_border=false" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=salam-hammad&theme=tokyonight&hide_border=true" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=salam-hammad&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salam-hammad&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+
 
 
 ---
