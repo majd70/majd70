@@ -5,7 +5,7 @@
 <h3 align="center" style="color:#6B21A8"><strong>Hi, I’m Salam — a Laravel Developer who loves building secure, scalable systems and clean code that makes a difference.</strong></h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Full-Stack+Laravel+Developer;Backend+Engineer+%7C+API+Integrator;2%2B+Years+of+Professional+Experience;Passionate+about+Clean+Code+%26+Real-Time+Apps" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=500&lines=Full-Stack+Laravel+Developer;Backend+Engineer+%7C+API+Integrator;2%2B+Years+of+Professional+Experience;Passionate+about+Clean+Code+%26+Real-Time+Apps" />
 </p>
 
 <p align="center">
@@ -89,10 +89,6 @@ Guided students in HTML, CSS, JavaScript, and Git fundamentals.
   <img src="https://github-readme-streak-stats.herokuapp.com?user=salam-hammad&theme=radical&hide_border=false" height="170" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=salam-hammad&show_icons=true&theme=radical&hide_border=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salam-hammad&layout=compact&theme=radical&hide_border=true" height="170" />
-</p>
 
 ---
 
