@@ -32,29 +32,41 @@
 </p>
 
 - **Languages:** PHP, JavaScript, TypeScript, Python, Java, SQL  
-- **Frameworks:** Laravel, Livewire, Vue, React, Express  
-- **Databases:** MySQL, PostgreSQL, Firebase  
-- **DevOps:** Docker, GitHub Actions, Bitbucket Pipelines, AWS  
-- **Tools:** Postman, PHPUnit, Figma, Jira, VS Code  
+- **Frameworks & Libraries:** Laravel, Livewire, Vue.js, React.js, Tailwind CSS, Express.js  
+- **Databases:** MySQL, PostgreSQL, Firebase, SQLite  
+- **DevOps:** Docker, GitHub Actions, Bitbucket, AWS  
+- **Tools:** Postman, PHPUnit, Figma, Jira
 
 ---
 
-## 📌 Highlight Projects
+## 📦 Highlight Projects
 
-| Project | Description | Tech Stack |
-|--------|-------------|------------|
-| **Smart Logistics** | Multi-region delivery & barcode system | Laravel, Firebase, AWS, Docker |
-| **Real-Time Auction** | Live auction with OTP & Firebase syncing | Laravel, RBAC, Realtime DB |
-| **Kitaby** | Arabic social platform for readers | Laravel, Firebase, RTL UI |
-| **GSG Store** | Laravel E-commerce with SMS & FCM alerts | Laravel, Vonage, FCM |
-| **Codak** | Coupon dashboard with upload & ACL | Laravel, MVC, Auth, CRUD |
+### 🚚 Smart Logistics System (2024 – WeArt)
+- Multi-region delivery platform with AWB tracking, barcode generation, and real-time APIs.
+- 🔧 **Tech Used:** Laravel, Sanctum, Firebase, Docker, AWS
+
+### 🐎 Real-Time Auction App (2024 – IT Squad)
+- Live auction system with OTP authentication and Firebase bid syncing.
+- 🔧 **Tech Used:** Laravel, Passport, RBAC, Firebase Realtime DB
+
+### 📚 Kitaby – Arabic Book Community
+- Social platform for Arabic readers with RTL support, groups, posts, and comments.
+- 🔧 **Tech Used:** Laravel, Firebase, Moderation Tools
+
+### 🛍 GSG Store – E-commerce Platform
+- Full Laravel store with multilingual support, real-time notifications, and SMS alerts.
+- 🔧 **Tech Used:** Laravel, Firebase Cloud Messaging, Vonage
+
+### 🏷 Codak – Coupon Management System
+- Bilingual dashboard with media upload, access control, and secure CRUD operations.
+- 🔧 **Tech Used:** Laravel, MVC, Auth, CRUD
 
 ---
 
 ## 🧾 Certifications
 
 - 🧪 Laravel Developer Bootcamp – *Udemy, 2023*  
-- 🌐 Full-Stack Web Dev with Node.js – *Coursera, 2021*
+- 🌐 Full-Stack Web Development with Node.js – *Coursera, 2021*
 
 ---
 
@@ -68,16 +80,16 @@ Islamic University of Gaza – *2018 ~ 2023*
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=majd70&theme=radical" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=majd70&show_icons=true&theme=radical&hide_title=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=majd70&layout=compact&theme=radical" height="150"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=majd70&theme=radical" height="150"/>
+</p>
+
+<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=majd70&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=majd70&bg_color=1a1b27&color=F97316&line=F59E0B&point=ffffff&area=true&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://majd70-atfw.vercel.app/api/top-langs/?username=majd70&layout=compact&theme=radical" height="150" />
 </p>
 
 ---
