@@ -17,11 +17,17 @@
 
 ## 🧠 About Me
 
-🎓 Computer Engineer | 🧰 Laravel Expert | 🌍 Remote-Ready
+Hi there! I'm **Majd AL-Dirawi**, a dedicated **Full-Stack Laravel Developer** with a background in **Computer Engineering**. I specialize in building secure, scalable, and performant web applications using modern PHP frameworks and JavaScript libraries.
 
-- 💼 4+ years building **secure & scalable** platforms  
-- 🧪 API wizard with strong background in **Cloud Deployments**  
-- 🧑‍💻 Passionate about **Clean Code, Testing, DevOps**, and **Performance**
+I'm passionate about:
+
+- ✨ Writing **clean, testable code** with SOLID principles.
+- 🚀 Designing and developing **RESTful APIs** and microservices.
+- ☁️ Working with **Docker**, **CI/CD**, and **cloud platforms** like AWS.
+- 📱 Creating full-stack platforms from scratch to production-ready solutions.
+- 🤝 Contributing to open-source and mentoring junior developers.
+
+Whether I'm building an e-commerce backend, a real-time auction system, or a community platform — my focus is always on delivering high-quality code and a smooth developer experience.
 
 ---
 
@@ -90,6 +96,10 @@ Islamic University of Gaza – *2018 ~ 2023*
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=majd70&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-contribution-trophy.vercel.app/?username=majd70&theme=darkhub&row=1&column=6" />
 </p>
 
 ---
