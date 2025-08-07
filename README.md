@@ -1,89 +1,86 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=F97316&height=200&section=header&text=Majd%20AL-Dirawi&fontSize=45&fontColor=ffffff&animation=twinkling" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&center=true&vCenter=true&width=435&lines=Hi+I'm+Majd+AL-Dirawi;Computer+Engineer;Full-Stack+Laravel+Developer;Backend+Engineer+%7C+API+Specialist;Open+Source+Contributor" alt="Typing SVG" />
+</p>
+
+![Header](https://capsule-render.vercel.app/api?type=rounded&color=0:F97316,100:F59E0B&height=200&section=header&text=Majd%20AL-Dirawi&fontSize=45&fontColor=ffffff&animation=twinkling)
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php,laravel,docker,mysql,aws,js,vue,react,nodejs&perline=7" />
+</p>
+
+<h2 align="center">🚀 Backend & Full-Stack Laravel Developer</h2>
+
+<p align="center">
+  <b>4+ years of experience</b> building secure, scalable web systems. Specialized in <b>Laravel</b>, <b>REST APIs</b>, and <b>Cloud Deployments</b>. Passionate about clean architecture and performance-driven development.
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=450&lines=Full-Stack+Laravel+Developer;API+Specialist+%7C+Backend+Engineer;Open+Source+Contributor+%7C+4%2B+Years+Experience" />
-</p>
-
-<p align="center">
-  <a href="mailto:majderawi@gmail.com"><img src="https://img.shields.io/badge/Email-majderawi@gmail.com-orange?style=flat-square&logo=gmail"></a>
-  <a href="https://linkedin.com/in/majd-derawi-50b71627b"><img src="https://img.shields.io/badge/LinkedIn-MajdDerawi-blue?style=flat-square&logo=linkedin"></a>
-  <a href="https://github.com/majd70"><img src="https://img.shields.io/badge/GitHub-majd70-lightgray?style=flat-square&logo=github"></a>
-  <a href="https://wa.me/972595276896"><img src="https://img.shields.io/badge/WhatsApp-Message-green?style=flat-square&logo=whatsapp"></a>
+  <a href="mailto:majderawi@gmail.com">📧 majderawi@gmail.com</a> • 
+  <a href="https://linkedin.com/in/majd-derawi-50b71627b">🔗 LinkedIn</a> • 
+  <a href="https://github.com/majd70">🌐 GitHub</a> •
+  <a href="https://wa.me/972595276896">💬 WhatsApp</a>
 </p>
 
 ---
 
-## 🧠 About Me
+### 🛠 Tech Stack
 
-Hi there! I'm **Majd AL-Dirawi**, a dedicated **Full-Stack Laravel Developer** & **Computer Engineering**. I specialize in building secure, scalable, and performant web applications using modern PHP frameworks and JavaScript libraries.
+yaml
+Languages:
+  - PHP, JavaScript, TypeScript, Node.js, Java, Python, SQL
 
-I'm passionate about:
+Frameworks & Libraries:
+  - Laravel, Livewire, Vue.js, React.js, Tailwind CSS, Express.js
 
-- ✨ Writing **clean, testable code** with SOLID principles.
-- 🚀 Designing and developing **RESTful APIs** and microservices.
-- ☁️ Working with **Docker**, **CI/CD**, and **cloud platforms** like AWS.
-- 📱 Creating full-stack platforms from scratch to production-ready solutions.
-- 🤝 Contributing to open-source and mentoring junior developers.
+Database:
+  - MySQL, PostgreSQL, Firebase, SQLite
 
-Whether I'm building an e-commerce backend, a real-time auction system, or a community platform — my focus is always on delivering high-quality code and a smooth developer experience.
+DevOps:
+  - Docker, AWS, GitHub Actions, Bitbucket
 
----
+Tools:
+  - Postman, PHPUnit, Figma, Jira
 
-## 🚀 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,docker,mysql,aws,js,vue,react,nodejs,ts,java,py&perline=8" />
-</p>
-
-- **Languages:** PHP, JavaScript, TypeScript, Python, Java, SQL  
-- **Frameworks & Libraries:** Laravel, Livewire, Vue.js, React.js, Tailwind CSS, Express.js  
-- **Databases:** MySQL, PostgreSQL, Firebase, SQLite  
-- **DevOps:** Docker, GitHub Actions, Bitbucket, AWS  
-- **Tools:** Postman, PHPUnit, Figma, Jira
 
 ---
 
-## 📦 Highlight Projects
+### 📦 Highlight Projects
 
-### 🚚 Smart Logistics System (2024 – WeArt)
-- Multi-region delivery platform with AWB tracking, barcode generation, and real-time APIs.
-- 🔧 **Tech Used:** Laravel, Sanctum, Firebase, Docker, AWS
+#### 🚚 Smart Logistics System (2024 – WeArt)
+- Multi-region delivery platform with AWB tracking, barcode management, real-time APIs
+- 🔧 Laravel, Sanctum, Firebase, Docker, AWS
 
-### 🐎 Real-Time Auction App (2024 – IT Squad)
-- Live auction system with OTP authentication and Firebase bid syncing.
-- 🔧 **Tech Used:** Laravel, Passport, RBAC, Firebase Realtime DB
+#### 🐎 Real-Time Auction App (2024 – IT Squad)
+- Live auction with OTP Auth & Firebase bid syncing
+- 🔧 Laravel, Passport, RBAC, Firebase Realtime DB
 
-### 📚 Kitaby – Arabic Book Community
-- Social platform for Arabic readers with RTL support, groups, posts, and comments.
-- 🔧 **Tech Used:** Laravel, Firebase, Moderation Tools
+#### 📚 Kitaby – Arabic Book Community
+- Social platform for Arabic readers with RTL UI, groups, and comments
+- 🔧 Laravel, Firebase, Moderation Tools
 
-### 🛍 GSG Store – E-commerce Platform
-- Full Laravel store with multilingual support, real-time notifications, and SMS alerts.
-- 🔧 **Tech Used:** Laravel, Firebase Cloud Messaging, Vonage
+#### 🛍 GSG Store – E-commerce Platform
+- Full Laravel store with multilingual support, real-time notifications, SMS alerts
+- 🔧 Laravel, Firebase Cloud Messaging, Vonage
 
-### 🏷 Codak – Coupon Management System
-- Bilingual dashboard with media upload, access control, and secure CRUD operations.
-- 🔧 **Tech Used:** Laravel, MVC, Auth, CRUD
-
----
-
-## 🧾 Certifications
-
-- 🧪 Laravel Developer Bootcamp – *Udemy, 2023*  
-- 🌐 Full-Stack Web Development with Node.js – *Coursera, 2021*
+#### 🏷 Codak – Coupon System
+- Bilingual coupon dashboard with media upload and secure access control
+- 🔧 Laravel, MVC, Auth, CRUD
 
 ---
 
-## 🎓 Education
-
-**Bachelor's in Computer Engineering**  
-Islamic University of Gaza – *2018 ~ 2023*
+### 🏆 Certifications
+- 🧪 Laravel Developer Bootcamp – Udemy (2023)
+- 🌐 Full-Stack Web Dev with Node.js – Coursera (2021)
 
 ---
 
-## 📊 GitHub Stats
+### 🎓 Education
+*Bachelor's in Computer Engineering*  
+Islamic University of Gaza (2018–2023)
+
+---
+
+### 📊 GitHub Visuals & Contributions
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=majd70&theme=radical&hide_border=false" height="170" />
@@ -102,18 +99,14 @@ Islamic University of Gaza – *2018 ~ 2023*
   <img src="https://github-contribution-trophy.vercel.app/?username=majd70&theme=darkhub&row=1&column=6" />
 </p>
 
-
 ---
 
-## 📬 Let's Connect
-
+### 📫 Let's Connect
 <p align="center">
-  <a href="mailto:majderawi@gmail.com">📩 Email</a> • 
-  <a href="https://linkedin.com/in/majd-derawi-50b71627b">🔗 LinkedIn</a> • 
-  <a href="https://github.com/majd70">🐙 GitHub</a> • 
+  <a href="mailto:majderawi@gmail.com">📩 Email Me</a> •
+  <a href="https://linkedin.com/in/majd-derawi-50b71627b">🔗 LinkedIn</a> •
+  <a href="https://github.com/majd70">🐙 GitHub</a> •
   <a href="https://wa.me/972595276896">💬 WhatsApp</a>
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F97316,100:F59E0B&height=120&section=footer" />
-</p>
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:F97316,100:F59E0B&height=120&section=footer)
