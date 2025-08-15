@@ -94,7 +94,6 @@ Islamic University of Gaza – 2018 ~ 2023
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=majd70&theme=tokyonight" />
-  <img src="https://github-contribution-trophy.vercel.app/?username=majd70&theme=darkhub&row=1&column=6" />
 </p>
 
 
